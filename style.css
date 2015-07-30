@@ -99,3 +99,59 @@
 	top: -903px;
 	right: -640px;
 }
+
+#marques {
+	position: relative;
+	top: -918px;
+	right: -20px;
+}
+
+#catchup {
+	font-size: 14px;
+	font-family: Helvetica;
+	top: -905px;
+	right: -20px;
+}
+
+#auburn {
+	position: relative;
+	top: -1095px;
+	right: -220px;
+}
+
+#duo {
+
+	font-size: 14px;
+	font-family: Helvetica;
+	top: -1080px;
+	right: -220px;
+}
+
+#zac {
+	position: relative;
+	top: -1250px;
+	right: -440px;
+}
+
+#legacy {
+
+	font-size: 14px;
+	font-family: Helvetica;
+	top: -1240px;
+	right: -440px;
+}
+
+#Bates {
+
+	position: relative;
+	top: -1400px;
+	right: -665px;
+}
+
+#daren {
+
+	font-size: 14px;
+	font-family: Helvetica;
+	top: -1385px;
+	right: -665px;
+}
