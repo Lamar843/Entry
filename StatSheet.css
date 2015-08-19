@@ -1,0 +1,69 @@
+#Passing {
+	background: #00295B;
+	font-color: #FFFFFF;
+	font-family: Helvetica;
+	font-size:  15px;
+	font-weight: bold;
+}
+
+
+#Names {
+	font-family: sans-serif;
+	font-color: #666;
+	font-size: 12px;
+	font-weight: 600;
+}
+
+#Rushing {
+	background: #00295B;
+	font-color: #FFFFFF;
+	font-family: Helvetica;
+	font-size:  15px;
+	font-weight: bold;
+}
+#Receiving {
+	background: #00295B;
+	font-color: white;
+	font-family: Helvetica;
+	font-size:  15px;
+	font-weight: bold;
+}
+#FieldGoals {
+	background: #00295B;
+	font-color: white;
+	font-family: Helvetica;
+	font-size:  15px;
+	font-weight: bold;
+}
+
+#Punting {
+	background: #00295B;
+	font-color: white;
+	font-family: Helvetica;
+	font-size:  15px;
+	font-weight: bold;
+}
+
+#PuntReturn {
+	background: #00295B;
+	font-color: white;
+	font-family: Helvetica;
+	font-size:  15px;
+	font-weight: bold;
+}
+
+#KickReturns {
+	background: #00295B;
+	font-color: white;
+	font-family: Helvetica;
+	font-size:  15px;
+	font-weight: bold;
+}
+
+#Defense {
+	background: #00295B;
+	font-color: white;
+	font-family: Helvetica;
+	font-size:  15px;
+	font-weight: bold;
+}
